@@ -9,6 +9,13 @@ permalink: /errata/
 *Running the Post-Quantum Transition, from Boardroom to National Policy*
 by Vinayak Gupta
 
+A practical field guide for the people who decide, fund and govern the move to post-quantum cryptography: board members, CISOs, regulators and policy advisers. It covers how to find and rank quantum-vulnerable systems, build crypto-agility, hold vendors to dated commitments, and coordinate whole sectors, from the enterprise boardroom to national policy. Available on Amazon in Kindle and paperback.
+
+### Buy the book:
+- **Kindle:** [Amazon.in](https://www.amazon.in/dp/B0HQ8WP128) · [Amazon.com](https://www.amazon.com/dp/B0HQ8WP128)
+- **Paperback (worldwide):** [Amazon.com](https://www.amazon.com/dp/9334570288)
+- **Paperback (India):** [The Quantum-Safe Enterprise & Nation | Pothi.com](https://store.pothi.com/book/vinayak-gupta-the-quantum-safe-enterprise-nation/) *(Amazon.in and Flipkart coming soon)*
+
 First edition, November 2026 • ISBN 978-93-345-7028-1 (paperback) • ISBN 978-93-345-8444-8 (ebook)
 
 This page lists corrections to the book and important changes in the standards and regulations it covers. The book's facts were verified as of early November 2026.
